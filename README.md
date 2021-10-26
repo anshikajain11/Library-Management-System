@@ -18,7 +18,7 @@ Use IDE to develop the project-
 MySQL for the database.
 
 Front End and Back End:
-- In Front End: HTML,CSS,PHP,AJAX
+- In Front End: HTML,CSS,PHP, JavaScript
 - In Back End: MySQL
 
 How  My project works?
