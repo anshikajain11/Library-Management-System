@@ -26,6 +26,4 @@ To get detail explanation about project download the document file. It includes 
 
 Some screenshots are given below:
 
-library project in java 1 library management system in java 2 library project in java swing 3
-
 Config files for my GitHub profile.
