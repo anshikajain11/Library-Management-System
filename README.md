@@ -14,11 +14,11 @@ Return Books
 Can logout.
 
 Tools to be used-
-Use IDE to develop the project- Netbeans 
+Use IDE to develop the project-  
 MySQL for the database.
 
 Front End and Back End:
-- In Front End: Java Swing
+- In Front End: HTML,CSS,PHP,AJAX
 - In Back End: MySQL
 
 How  My project works?
