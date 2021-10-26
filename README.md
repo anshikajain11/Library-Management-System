@@ -1,4 +1,5 @@
-# Library-Management-System-project- A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
+# Library Management System project-
+ A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 
 Users of the System
 1)Admin
