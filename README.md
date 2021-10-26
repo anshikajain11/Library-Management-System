@@ -6,10 +6,10 @@ Users of the System
 2)Libraian
 
 Functional Requirements
-1. Admin-Can add/view/delete librarian
+1. Admin- Can add/view/delete librarian
 Can logout.
 
-2. Librarian-Can add/view books Can issue books View issued books
+2. Librarian- Can add/view books Can issue books View issued books
 Return Books
 Can logout.
 
