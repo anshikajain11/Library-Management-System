@@ -1,0 +1,28 @@
+<?php
+session_start();
+session_commit();
+?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Library System</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="wrapper-bgbtm">
+		<div id="header">
+			<div id="logo">
+				<h1><a href="#">Library System</a></h1>
+			</div>
+		</div>
+		<!-- end #header -->
+		<div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="#">Homepage</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+				<li>
